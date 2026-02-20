@@ -1,5 +1,12 @@
-## Hi there 👋
+# 👋 Hi, I'm Emanuel Ruschel Rauter
 
+🎓 Computer Science Student at Universidade Federal do Rio Grande do Sul (UFRGS)  
+💻 Interested in Software Development, Game Devolopment and Artifficial Intelligence
+👀 Experience in coding with C code, C++, Java and Python 
+
+
+email: maneco.rauter@gmail.com
+LinkedIn: www.linkedin.com/in/emanuel-ruschel-rauter-588808364
 <!--
 **E-434/E-434** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
