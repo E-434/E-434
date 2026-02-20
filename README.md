@@ -1,23 +1,29 @@
 # 👋 Hi, I'm Emanuel Ruschel Rauter
 
-🎓 Computer Science Student at Universidade Federal do Rio Grande do Sul (UFRGS)  
-💻 Interested in Software Development, Game Devolopment and Artifficial Intelligence
-👀 Experience in coding with C code, C++, Java and Python 
+🎓 **Computer Science Student**  
+Universidade Federal do Rio Grande do Sul (UFRGS)
 
+---
 
-email: maneco.rauter@gmail.com
-LinkedIn: www.linkedin.com/in/emanuel-ruschel-rauter-588808364
-<!--
-**E-434/E-434** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Interests
 
-Here are some ideas to get you started:
+- Software Development  
+- Game Development  
+- Artificial Intelligence  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Technical Skills
+
+**Programming Languages**
+- C
+- C++
+- Java
+- Python
+
+---
+
+## 📫 Contact
+
+📧 Email: maneco.rauter@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/emanuel-ruschel-rauter-588808364
