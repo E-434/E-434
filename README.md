@@ -25,5 +25,5 @@ Universidade Federal do Rio Grande do Sul (UFRGS)
 
 ## 📫 Contact
 
-📧 Email: maneco.rauter@gmail.com  
+📧 Email: emanuelrauter6@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/emanuel-ruschel-rauter-588808364
